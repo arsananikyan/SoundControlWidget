@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SoundControlView">
+        <attr name="circleColor" format="string" />
+        <attr name="pointerColor" format="string" />
+        <attr name="circleBackgroundColor" format="string" />
+        <attr name="piecesCount" format="integer"/>
+    </declare-styleable>
+</resources>
